@@ -1,3 +1,16 @@
+
+## .env File
+server configuration
+HOST=
+PORT=
+ 
+node-postgres configuration
+PGUSER=
+PGHOST=
+PGPASSWORD=
+PGDATABASE=
+PGPORT=
+
 ## Run Locally
 
 Clone the project
